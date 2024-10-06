@@ -34,7 +34,7 @@ Esta aplicación permite a los usuarios buscar y consultar GIFs animados. Utiliz
    ```bash
    npm start
 
-##Demo
+## Demo
 [Pruebalo aquí](https://gif-react-app-naw.netlify.app/)
 
   
