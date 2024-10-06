@@ -22,16 +22,19 @@ Esta aplicación permite a los usuarios buscar y consultar GIFs animados. Utiliz
    ```bash
    git clone https://github.com/nahuelpaz/gif-react-app.git
    
-2- Navega a la carpeta del proyecto:
-  cd gif-react-app
+2. Navega a la carpeta del proyecto:
+   ```bash
+   cd gif-react-app
 
-3- Instala las dependencias:
-  npm install
+3. Instala las dependencias:
+   ```bash
+   npm install
 
-4- Inicializa la aplicacion:
-  npm start
+4. Inicializa la aplicacion:
+   ```bash
+   npm start
 
-#Demo
+##Demo
 [Pruebalo aquí](https://gif-react-app-naw.netlify.app/)
 
   
